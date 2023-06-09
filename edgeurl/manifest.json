@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "copy URL",
+  "version": "1.0",
+  "description": "copy URL extension",
+  "permissions": ["tabs", "clipboardWrite", "scripting"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
